@@ -5,7 +5,7 @@ export default function Home() {
     <div className="flex min-h-screen items-center justify-center bg-zinc-50 dark:bg-black p-4">
       <main className="text-center">
         <h1 className="text-5xl font-bold text-zinc-900 dark:text-zinc-50 mb-4">
-          Welcome to Dev-API Frontend
+          Welcome to Page
         </h1>
         <p className="text-lg text-zinc-600 dark:text-zinc-400 mb-8">
           Manage your dogs and cats with ease

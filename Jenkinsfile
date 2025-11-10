@@ -1,11 +1,6 @@
 pipeline {
     agent any
 
-    environment {
-        // Define Node.js version if using NodeJS plugin (optional)
-        // PATH = "${tool 'NodeJS_20'}/bin:${env.PATH}"
-    }
-
     stages {
         stage('Checkout') {
             steps {
